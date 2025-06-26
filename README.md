@@ -1,3 +1,3 @@
-# Math-Projects
+# Project Papers
 
-Differential Equations and Applied Combinatorics Projects
+Project papers I've written over the last few years
